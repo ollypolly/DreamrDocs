@@ -1,0 +1,10 @@
+{
+  "docs": {
+    "Getting Started": ["doc1", "doc2"],
+    "Dreamr Features": ["doc3", "doc4", "doc5", "doc6"],
+    "Further Reading": ["doc7"]
+  },
+  "docs-other": {
+    "First Category": []
+  }
+}
